@@ -5,7 +5,8 @@
 開発をブーストする「ISSUE」のGithubAppです。
 
 # 仕組み
-![image](https://user-images.githubusercontent.com/19757050/135706800-447a16bd-971b-4557-9012-9cd41054027f.png)
+![image](https://user-images.githubusercontent.com/19757050/135706863-2330f63b-547f-4701-b452-6c6c2329922f.png)
+
 
 このGithubAppをOrgnazationで所有するリポジトリにインストールすることで、
 Githubからissueを簡単に「ISSUE」に投稿できるようになります。
