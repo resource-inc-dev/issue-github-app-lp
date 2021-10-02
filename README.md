@@ -1,5 +1,5 @@
 # Githubのissueで求人できるサービス
-![ISSUE法人向け資料 001](https://user-images.githubusercontent.com/19757050/135705148-4eea61b6-d4f0-4dce-96c6-e4bb2d30c57c.jpeg)
+![image](https://user-images.githubusercontent.com/19757050/135711654-da859372-48fb-47f0-ae20-10fdb7589d51.png)
 
 
 開発をブーストする「ISSUE」のGithubAppです。
