@@ -42,7 +42,7 @@ Githubからissueを簡単に「ISSUE」に投稿できるようになります�
 ![image](https://user-images.githubusercontent.com/19757050/134761160-cec5bcf3-b895-4dbe-8802-ffbef05ce1cc.png)
 
 ### ▼ 4. 応募が来ると、issueにコメントが届く
-![image](https://user-images.githubusercontent.com/19757050/134760999-a2177cea-b5b8-4471-b80e-139f7d6028d1.png)
+![image](https://user-images.githubusercontent.com/19757050/135705322-3c6e03e7-5843-4ced-8179-d05f30f11fe6.png)
 
 
 # インストールはこちら
