@@ -36,7 +36,7 @@ Githubからissueを簡単に「ISSUE」に投稿できるようになります�
 
 ### ▼ 2. リポジトリを指定して、issueを投稿できるようにする
 
-![image](https://user-images.githubusercontent.com/19757050/134760708-4c171ce5-7888-49d0-8b33-e29a5709a4a3.png)
+![image](https://user-images.githubusercontent.com/19757050/135705218-fe53760c-f368-4d2e-96f3-524255f62e9b.png)
 
 ### ▼ 3. 投稿したいissueのタイトルに[ISSUE]を追加すると、issueが投稿される
 ![image](https://user-images.githubusercontent.com/19757050/134761160-cec5bcf3-b895-4dbe-8802-ffbef05ce1cc.png)
