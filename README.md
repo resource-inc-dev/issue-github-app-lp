@@ -4,13 +4,14 @@
 
 開発をブーストする「ISSUE」のGithubAppです。
 
+# インストールはこちら
+[インストール画面](https://github.com/apps/issue-github-app)
+
 # 仕組み
 ![image](https://user-images.githubusercontent.com/19757050/135707009-aff2ef05-d4fc-47ec-99d7-2db160f15f60.png)
 
 このGithubAppをOrgnazationで所有するリポジトリにインストールすることで、
 Githubからissueを簡単に「ISSUE」に投稿できるようになります。
-# インストールはこちら
-[インストール画面](https://github.com/apps/issue-github-app)
 
 # できること
 ### 開発をブーストします🔥
