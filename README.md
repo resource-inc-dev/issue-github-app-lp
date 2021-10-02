@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/19757050/134761262-49c0734b-af49-46e3-9fe4-f67e12c70e7f.png)
 
 開発をブーストする「ISSUE」のGithubAppです。
+
 このGithubAppをOrgnazationで所有するリポジトリにインストールすることで、
 Githubからissueを簡単に「ISSUE」に投稿できるようになります。
 # インストールはこちら
@@ -26,7 +27,7 @@ Githubからissueを簡単に「ISSUE」に投稿できるようになります�
 
 ### ▼ 1. GithubAppをOrganazationにインストール
 
-![image](https://user-images.githubusercontent.com/19757050/134760666-fdbe8c6b-0984-4129-b22f-686afe75f52a.png)
+![image](https://user-images.githubusercontent.com/19757050/135705064-bfbbb8a5-915a-41c5-9600-1d4be75e979b.png)
 
 ### ▼ 2. リポジトリを指定して、issueを投稿できるようにする
 
