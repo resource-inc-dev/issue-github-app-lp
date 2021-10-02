@@ -46,5 +46,5 @@ Githubからissueを簡単に「ISSUE」に投稿できるようになります�
 
 
 # インストールはこちら
-[インストール画面](https://github.com/apps/issue-github-app)
-[ISSUEwebページ](https://i-ssue.com/)
+* [インストール画面](https://github.com/apps/issue-github-app)
+* [ISSUEwebページ](https://i-ssue.com/)
