@@ -7,6 +7,10 @@
 # インストールはこちら
 [インストール画面](https://github.com/apps/issue-github-app)
 
+# 特徴
+![image](https://user-images.githubusercontent.com/19757050/135707268-8d0513a5-f553-4c9b-b3a2-11c7c24910ab.png)
+
+
 # 仕組み
 ![image](https://user-images.githubusercontent.com/19757050/135707009-aff2ef05-d4fc-47ec-99d7-2db160f15f60.png)
 
