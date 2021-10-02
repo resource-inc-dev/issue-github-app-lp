@@ -38,6 +38,9 @@ Githubからissueを簡単に「ISSUE」に投稿できるようになります�
 3. 投稿したいissueのタイトルに[ISSUE]を追加すると、issueが投稿される
 4. 応募が来ると、issueにコメントが届く
 
+![image](https://user-images.githubusercontent.com/19757050/135707828-720adbe6-3811-4bb1-9355-418538f882e5.png)
+
+
 # ▼ 1. GithubAppをOrganazationにインストール
 
 ![image](https://user-images.githubusercontent.com/19757050/135705064-bfbbb8a5-915a-41c5-9600-1d4be75e979b.png)
