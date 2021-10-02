@@ -1,9 +1,13 @@
-# Githubのissueで求人できるアプリ
+# Githubのissueで求人できるサービス
 ![image](https://user-images.githubusercontent.com/19757050/134761262-49c0734b-af49-46e3-9fe4-f67e12c70e7f.png)
 
 開発をブーストする「ISSUE」のGithubAppです。
 このGithubAppをOrgnazationで所有するリポジトリにインストールすることで、
 Githubからissueを簡単に「ISSUE」に投稿できるようになります。
+# インストールはこちら
+[インストール画面](https://github.com/apps/issue-github-app)
+
+# できること
 ### 開発をブーストします🔥
 今月中にリリースしたい機能があるけど、社内の開発チームが別のタスクに取り組んで手が離せない時に便利です。必要なエンジニアを急募できます。
 
@@ -33,3 +37,7 @@ Githubからissueを簡単に「ISSUE」に投稿できるようになります�
 
 ### ▼ 4. 応募が来ると、issueにコメントが届く
 ![image](https://user-images.githubusercontent.com/19757050/134760999-a2177cea-b5b8-4471-b80e-139f7d6028d1.png)
+
+
+# インストールはこちら
+[インストール画面](https://github.com/apps/issue-github-app)
