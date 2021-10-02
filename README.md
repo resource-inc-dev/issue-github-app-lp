@@ -1,5 +1,6 @@
 # Githubのissueで求人できるサービス
-![image](https://user-images.githubusercontent.com/19757050/134761262-49c0734b-af49-46e3-9fe4-f67e12c70e7f.png)
+![ISSUE法人向け資料 001](https://user-images.githubusercontent.com/19757050/135705148-4eea61b6-d4f0-4dce-96c6-e4bb2d30c57c.jpeg)
+
 
 開発をブーストする「ISSUE」のGithubAppです。
 
@@ -18,6 +19,10 @@ Githubからissueを簡単に「ISSUE」に投稿できるようになります�
 ### そのまま継続してもらうことも👍
 作業完了後、継続して仕事してもらうこともできます。
 技術力があるか、相性がいいか最初にチェックできる点が好評です。
+
+### 採用もできる
+フリーランス・副業の募集だけでなく
+正社員の募集もできます。
 
 # 使い方
 1. GithubAppをOrganazationにインストール
